@@ -535,6 +535,7 @@ body.ie ._ibg img {
 @media (max-width: 47.99875em) {
   .menu__link {
     color: #fff;
+    display: block;
   }
 }
 
